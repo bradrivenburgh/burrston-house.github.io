@@ -1,0 +1,25 @@
+#page-footer {
+    color: gray;
+}
+
+#page-footer a {
+  text-decoration: none; 
+  color: gray;
+}
+
+#page-footer a:hover {
+ color: white; 
+}
+
+#page-footer ul {
+  padding-top: 10px;
+}
+
+#page-footer li {
+  margin: 5px;
+}
+
+#page-footer {
+  margin: 0;
+  padding: 0;
+}
